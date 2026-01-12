@@ -52,7 +52,7 @@ dependencies:
 ```
 then run:
 ```
-pub get
+flutter pub get
 ```
 
 ---
