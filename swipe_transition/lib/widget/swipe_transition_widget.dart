@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../direction_model/direction_model.dart';
+import '../../direction_model/direction_model.dart';
 
 class SwipeTransitionRoute<T> extends PageRouteBuilder<T> {
   final Widget page;
